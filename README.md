@@ -54,27 +54,32 @@ Execute the programs and publish them.
 # 2.Home:
 
 <html>
-    <head>
-        My City
-    </head>
-    <body>
-        <h1 align = "center">
-            <font color="red"><b>Thiruvannamalai</b></font>
-        </h1>
-        <h3 align="center">
-            <font color="blue"><b>Surya (24901185)</b></font>
-        </h3>
-        <center>
-            <img src="img.png" usemap="#MyCity" height="610" width="1450">
-            <map name="MyCity">
-                <area shape="rect" coords="770,339,618,310" title="Home Town" href="home.html">
-                <area shape="rect" coords="629,299,509,263" title="Cave" href="cave.html">
-                <area shape="rect" coords="584,177,705,245" title="lingam" href="lingam.html">
-                <area shape="rect" coords="570,494,441,443" title="arunachalam" href="mountain.html">
-            </map>
-        </center>
+    <body style="background-color: antiquewhite;">
+        <b>About District</b><br>
+Tiruvannamalai is one of the most venerated places in Tamil Nadu. In ancient times, the term “Annamalai” meant an inaccessible mountain. The word “Thiru” was prefixed to signify its greatness, and coupled with the two terms, it is called Tiruvannamalai.
+The Temple Town of Tiruvannamalai is one of the most ancient heritage sites of India and is a centre of the Saiva religion. The Arunachala hill and its environs have been held in great regard by the Tamils for centuries. The temple is grand in conception and architecture and is rich in tradition, history and festivals. The main Deepam festival attracts devotees from far and wide throughout South India. It has historic places besides Tiruvannamalai, Arni, Vandavasi, Devigapuram connected to East India and French companies. In the late Chola period this district was ruled by the Cholan of Sambuvarayar having Padavedu near Arni as HQ. We can now find the fort and note along with a Shiva temple namely Kailasanathar in Arni town.<br>
+<br>
+<b>Administrative Units</b><br>
+Tiruvannamalai District was created from erstwhile North Arcot District on 30-09-1989. The  district is surrounded by Kanchipuram district in the East, Villupuram district in the south, Dharmapuri and Krishnagiri Districts in the West and Vellore District in the North as its boundaries. Tiruvannamalai District is divided into 3 Revenue Divisions namely Tiruvannamalai, Arni and Cheyyar and  12 Taluks namely Tiruvannamalai, Kilpennathur, Chengam, Thandarampattu, Kalasapakkam Polur, Arni, Chetput, Cheyyar, Vembakkam, Vandavasi and Jamanamarathur. They are further sub-divided into 18 development blocks, 4 Municipalities and 10 Town Panchayats and 860 Village Panchayats.<br>
+<br>
+<b>Location</b><br>
+Tiruvannamalai District is located in the Northern part of Tamilnadu with a distance of 190 km from Chennai and 210 km from Trichy.<br>
+<br>
+<b>Agriculture</b><br>
+Tiruvannamalai District is leading producer of Rice.  The quality rice produced from Arni region is being exported to throughout Tamil Nadu and to other States of India and foreign countries. Thinai, Samai and Varagu millets, Seetha and Jackfruit are producing in Jawadhu hills. Banana plantation is widely practiced in Padavedu region. Approximately 56 % of people are depended on Agriculture related works.<br>
+<br>
+<b>Industries</b><br>
+Tiruvannamalai district is a backward district in terms of Industrial production. Agricultural based industries like Sugar mills are situated in Polur, Cheyyar and Kozhunthampattu. The Lakshmi Saraswathy Cotton mill is functioning at Sevur near Arni. Cheyyar SIPCOT industrial estate is famous for production of finished leather goods and automobile accessories and provides more employment opportunity for the people in the North eastern part of this district. Apart from these, Granite industries make Black Stones, Colored Stones and soft stones.<br>
+<br>
+<b>Tourism</b><br>
+Tiruvannamalai District is famous for spiritual and religious aspect. The world famous Annamalaiyar temple, Padavedu Renugammbal temple, Thennnagur Pandurangar Temple and Devikapuram Periyanayagi amman temple are some of the main spiritual centers.  Sathanur Dam, Jawadhu Hills are the famous tourist places. Tirumalai Jain temple, Mamandur cave temples, Koolamandal and Brammadesam are the heritage sites of this district.<br>
+<br>
+<b>Education</b><br>
+Tiruvannamalai District is divided into 5 educational district viz Tiruvannamalai, Arni, Cheyyar, Chengam and Polur comprising a total of 1798 primary schools, 219 Highschools,160 Higher Secondary School apart from CBSE schools are functioning in the district. Forest Department schools with hostel facilities are running for tribal people in Jawadhu hills.<br><br>
+
+<b>Health</b><br>
+There are 417 Health Sub Centers and 114 Primary Health Centers and 20 Hospitals and one Government Medical College are funtioning for the service of people under the control of Public Health Department. Five vetinary hospitals and 113 dispensaries are functioning under the control of Animal Husbandry Department.<br>
     </body>
-    
 </html>
 
 # 3.Cave:
